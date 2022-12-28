@@ -1,0 +1,130 @@
+{
+  "eng": [
+    {
+      "title": "Agro Form",
+      "modal": {
+        "btn": "Confirm",
+        "cancelMsg": "All the form fields will get emtied !",
+        "reloadMsg": "Dropdowns will be reloaded!"
+      },
+      "date": {
+        "label": "Date"
+      },
+      "rate": {
+        "label": "Rate"
+      },
+      "kgOrUnit": {
+        "label": "Kg/Unit"
+      },
+      "qtyNumber": {
+        "label": "Qty"
+      },
+      "errMsg": "Number is invalid",
+      "toastErrorMsg": "At least 1 row of table should be filled !",
+      "toastSuccessMsg": "Form submitted successfully ✓",
+      "addBtn": "Add",
+      "submitBtn": "Submit",
+      "cancelBtn": "Cancel",
+      "traderName": {
+        "label": "Name of Farmer/Trader",
+        "defOption": "Choose name",
+        "options": [
+          {
+            "value": "Shoqosim farmer",
+            "id": 1,
+            "label": "Shoqosim farmer"
+          },
+          {
+            "value": "Tursunboy farmer",
+            "id": 2,
+            "label": "Tursunboy farmer"
+          },
+          {
+            "value": "Beshim farmer",
+            "id": 3,
+            "label": "Beshim farmer"
+          }
+        ]
+      },
+      "vegetableName": {
+        "label": "Name of Vegetable",
+        "defOption": "Choose vegetable",
+        "options": [
+          {
+            "value": "Sabzi",
+            "id": 1,
+            "label": "Sabzi"
+          },
+          {
+            "value": "Karam",
+            "id": 2,
+            "label": "Karam"
+          },
+          {
+            "value": "Pomidor",
+            "id": 3,
+            "label": "Pomidor"
+          }
+        ]
+      },
+      "firstUnit": {
+        "label": "First Unit",
+        "defOption": "Choose unit",
+        "options": [
+          {
+            "value": "Bag",
+            "id": 1,
+            "label": "Bag"
+          },
+          {
+            "value": "Crate",
+            "id": 2,
+            "label": "Crate"
+          },
+          {
+            "value": "Package",
+            "id": 3,
+            "label": "Package"
+          }
+        ]
+      },
+      "customerName": {
+        "label": "Name of Customer",
+        "defOption": "Choose name",
+        "options": [
+          {
+            "value": "Botir",
+            "id": 1,
+            "label": "Botir"
+          },
+          {
+            "value": "Shoqosim",
+            "id": 2,
+            "label": "Shoqosim"
+          },
+          {
+            "value": "Bolta",
+            "id": 3,
+            "label": "Bolta"
+          }
+        ]
+      },
+      "table": {
+        "columns": [
+          "SI#",
+          "Name of Customer",
+          "Vegetable",
+          "Qty",
+          "Unit",
+          "Rate",
+          "Kg/Unit",
+          "Amount",
+          "Actions"
+        ],
+        "delBtn": "delete",
+        "totalCol": "Total"
+      }
+    }
+  ],
+  "tableData": []
+}
