@@ -74,19 +74,19 @@
           {
             "value": "Bag",
             "id": 1,
-            "unit": 0.00,
+            "unit": 0.0,
             "label": "Bag"
           },
           {
             "value": "Crate",
             "id": 2,
-            "unit": 1.00,
+            "unit": 1.0,
             "label": "Crate"
           },
           {
             "value": "Package",
             "id": 3,
-            "unit": 2.00,
+            "unit": 2.0,
             "label": "Package"
           }
         ]
@@ -127,6 +127,137 @@
         "delBtn": "delete",
         "deleteMsg": "Do you want to delete this record?",
         "totalCol": "Total"
+      }
+    }
+  ],
+  "rus": [
+    {
+      "title": "Агро форма",
+      "modal": {
+        "btn": "Подтверждать",
+        "cancelMsg": "Все поля формы будут очищены!",
+        "reloadMsg": "Выпадающие списки будут перезагружены!"
+      },
+      "date": {
+        "label": "Дата"
+      },
+      "rate": {
+        "label": "Ставка"
+      },
+      "kgOrUnit": {
+        "label": "Кг/Ед."
+      },
+      "qtyNumber": {
+        "label": "Кол-во"
+      },
+      "errMsg": "Номер недействителен",
+      "toastErrorMsg": "Должна быть заполнена хотя бы 1 строка таблицы!",
+      "toastSuccessMsg": "Форма успешно отправлена ✓",
+      "addBtn": "Добавлять",
+      "submitBtn": "Yтверждать",
+      "cancelBtn": "Отмена",
+      "traderName": {
+        "label": "Имя фермера/торговца",
+        "defOption": "Выберите имя",
+        "options": [
+          {
+            "value": "Шокосим фермер",
+            "id": 1,
+            "label": "Шокосим фермер"
+          },
+          {
+            "value": "Турсунбойский фермер",
+            "id": 2,
+            "label": "Турсунбойский фермер"
+          },
+          {
+            "value": "Бешим фермер",
+            "id": 3,
+            "label": "Бешим фермер"
+          }
+        ]
+      },
+      "vegetableName": {
+        "label": "Название овоща",
+        "defOption": "Выберите овощ",
+        "options": [
+          {
+            "value": "Сабзи",
+            "id": 1,
+            "label": "Сабзи"
+          },
+          {
+            "value": "Карам",
+            "id": 2,
+            "label": "Карам"
+          },
+          {
+            "value": "Помидор",
+            "id": 3,
+            "label": "Помидор"
+          }
+        ]
+      },
+      "firstUnit": {
+        "label": "Первый блок",
+        "defOption": "Выберите единицу",
+        "options": [
+          {
+            "value": "Мешок",
+            "id": 1,
+            "unit": 0.0,
+            "label": "Мешок"
+          },
+          {
+            "value": "ящик",
+            "id": 2,
+            "unit": 1.0,
+            "label": "ящик"
+          },
+          {
+            "value": "Упаковка",
+            "id": 3,
+            "unit": 2.0,
+            "label": "Упаковка"
+          }
+        ]
+      },
+      "customerName": {
+        "label": "Имя клиента",
+        "defOption": "Выберите имя",
+        "options": [
+          {
+            "value": "Ботир",
+            "id": 1,
+            "label": "Ботир"
+          },
+          {
+            "value": "Шокосим",
+            "id": 2,
+            "label": "Шокосим"
+          },
+          {
+            "value": "Болта",
+            "id": 3,
+            "label": "Болта"
+          }
+        ]
+      },
+      "table": {
+        "columns": [
+          "Нo",
+          "Имя клиента",
+          "Oвощ",
+          "Кол-во",
+          "Блок",
+          "Ставка",
+          "Кг/Ед.",
+          "Количество",
+          "Действия"
+        ],
+        "delBtn": "удалять",
+        "deleteMsg": "Вы хотите удалить эту запись?",
+        "totalCol": "Общее"
       }
     }
   ],
