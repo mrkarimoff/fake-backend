@@ -74,16 +74,19 @@
           {
             "value": "Bag",
             "id": 1,
+            "unit": 0.00,
             "label": "Bag"
           },
           {
             "value": "Crate",
             "id": 2,
+            "unit": 1.00,
             "label": "Crate"
           },
           {
             "value": "Package",
             "id": 3,
+            "unit": 2.00,
             "label": "Package"
           }
         ]
