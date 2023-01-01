@@ -20,6 +20,8 @@
         "label": "Qty"
       },
       "errMsg": "Number is invalid",
+      "invalidFieldMsg": "Please fill out this field!",
+      "invalidSelectMsg": "Please select an item in the list!",
       "toastErrorMsg": "At least 1 row of table should be filled !",
       "toastSuccessMsg": "Form submitted successfully ✓",
       "addBtn": "Add",
@@ -151,6 +153,8 @@
         "label": "Кол-во"
       },
       "errMsg": "Номер недействителен",
+      "invalidFieldMsg": "Пожалуйста, заполните это поле!",
+      "invalidSelectMsg": "Пожалуйста, выберите элемент в списке!",
       "toastErrorMsg": "Должна быть заполнена хотя бы 1 строка таблицы!",
       "toastSuccessMsg": "Форма успешно отправлена ✓",
       "addBtn": "Добавлять",
