@@ -32,19 +32,19 @@
         "defOption": "Choose name",
         "options": [
           {
-            "value": "Shoqosim farmer",
+            "value": "Gaurav Tara",
             "id": 1,
-            "label": "Shoqosim farmer"
+            "label": "Gaurav Tara"
           },
           {
-            "value": "Tursunboy farmer",
+            "value": "Aditi Mody",
             "id": 2,
-            "label": "Tursunboy farmer"
+            "label": "Aditi Mody"
           },
           {
-            "value": "Beshim farmer",
+            "value": "Anusha Johal",
             "id": 3,
-            "label": "Beshim farmer"
+            "label": "Anusha Johal"
           }
         ]
       },
@@ -53,19 +53,19 @@
         "defOption": "Choose vegetable",
         "options": [
           {
-            "value": "Sabzi",
+            "value": "Karela",
             "id": 1,
-            "label": "Sabzi"
+            "label": "Karela"
           },
           {
-            "value": "Karam",
+            "value": "Gajar",
             "id": 2,
-            "label": "Karam"
+            "label": "Gajar"
           },
           {
-            "value": "Pomidor",
+            "value": "Patta",
             "id": 3,
-            "label": "Pomidor"
+            "label": "Patta"
           }
         ]
       },
@@ -98,19 +98,19 @@
         "defOption": "Choose name",
         "options": [
           {
-            "value": "Botir",
+            "value": "Pranay Chaudhary",
             "id": 1,
-            "label": "Botir"
+            "label": "Pranay Chaudhary"
           },
           {
-            "value": "Shoqosim",
+            "value": "Maya Mani",
             "id": 2,
-            "label": "Shoqosim"
+            "label": "Maya Mani"
           },
           {
-            "value": "Bolta",
+            "value": "Jivika Manne",
             "id": 3,
-            "label": "Bolta"
+            "label": "Jivika Manne"
           }
         ]
       },
@@ -158,26 +158,26 @@
       "toastErrorMsg": "Должна быть заполнена хотя бы 1 строка таблицы!",
       "toastSuccessMsg": "Форма успешно отправлена ✓",
       "addBtn": "Добавлять",
-      "submitBtn": "Yтверждать",
+      "submitBtn": "Утверждать",
       "cancelBtn": "Отмена",
       "traderName": {
         "label": "Имя фермера/торговца",
         "defOption": "Выберите имя",
         "options": [
           {
-            "value": "Шокосим фермер",
+            "value": "Гаурав Тара",
             "id": 1,
-            "label": "Шокосим фермер"
+            "label": "Гаурав Тара"
           },
           {
-            "value": "Турсунбойский фермер",
+            "value": "Адити Моди",
             "id": 2,
-            "label": "Турсунбойский фермер"
+            "label": "Адити Моди"
           },
           {
-            "value": "Бешим фермер",
+            "value": "Ануша Джохал",
             "id": 3,
-            "label": "Бешим фермер"
+            "label": "Ануша Джохал"
           }
         ]
       },
@@ -186,19 +186,19 @@
         "defOption": "Выберите овощ",
         "options": [
           {
-            "value": "Сабзи",
+            "value": "Горькая тыква",
             "id": 1,
-            "label": "Сабзи"
+            "label": "Горькая тыква"
           },
           {
-            "value": "Карам",
+            "value": "Морковь",
             "id": 2,
-            "label": "Карам"
+            "label": "Морковь"
           },
           {
-            "value": "Помидор",
+            "value": "Лист",
             "id": 3,
-            "label": "Помидор"
+            "label": "Лист"
           }
         ]
       },
@@ -231,19 +231,19 @@
         "defOption": "Выберите имя",
         "options": [
           {
-            "value": "Ботир",
+            "value": "Пранай Чаудхари",
             "id": 1,
-            "label": "Ботир"
+            "label": "Пранай Чаудхари"
           },
           {
-            "value": "Шокосим",
+            "value": "Майя Мани",
             "id": 2,
-            "label": "Шокосим"
+            "label": "Майя Мани"
           },
           {
-            "value": "Болта",
+            "value": "Дживика Манне",
             "id": 3,
-            "label": "Болта"
+            "label": "Дживика Манне"
           }
         ]
       },
@@ -259,7 +259,7 @@
           "Количество",
           "Действия"
         ],
-        "delBtn": "удалять",
+        "delBtn": "удалить",
         "deleteMsg": "Вы хотите удалить эту запись?",
         "totalCol": "Общее"
       }
